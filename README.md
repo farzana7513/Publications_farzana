@@ -6,5 +6,5 @@
 **pdf name**: A Comprehensive Review of Li-ion Battery Cell Balancing Techniques & Implementation of Adaptive Passive Cell Balancing.pdf\
 **Title**: A Comprehensive Review of Li-ion Battery Cell Balancing Techniques & Implementation of Adaptive Passive Cell Balancing.pdf
 ## 2023
-**Accepted:** 
+**Accepted:**\ 
 **Titile**:Melanoma Lesion Segmentation and Classification Using SegNet
